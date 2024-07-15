@@ -12,6 +12,8 @@
 ### Examples
 
 `pyramids(36, "3")`
+
+
         3
        3 3
       3 3 3
@@ -25,7 +27,8 @@
 level number:  8
 
 `pyramids(116, "3")`
-             
+
+
              3 3
             3 3 3 3
            3 3 3 3 3
