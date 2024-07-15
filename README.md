@@ -29,6 +29,7 @@ level number:  8
 `pyramids(116, "3")`
 
 
+<code>
              3 3
             3 3 3 3
            3 3 3 3 3
@@ -42,6 +43,7 @@ level number:  8
    3 3 3 3 3 3 3 3 3 3 3 3 3
   3 3 3 3 3 3 3 3 3 3 3 3 3 3
  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+</code>
 
 
 level number:  14
