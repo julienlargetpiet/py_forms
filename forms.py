@@ -28,6 +28,6 @@ def pyramids(nb_block, block_shape="#"):
         print(l_pr[-i])
     print("level number: ", nb_et)
 
-
+pyramids(36, "3")
 
 
